@@ -1,0 +1,35 @@
+{
+  "name": "aaronchupa",
+  "description": "Aaron's portfolio website",
+  "author": "Aaron Chupa <iceman.com> (https://iceman.pages.dev/)",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "array.prototype.find": "^2.1.1",
+    "axios": "^0.19.2",
+    "emotion": "^10.0.27",
+    "es6-object-assign": "^1.1.0",
+    "es6-promise": "^4.2.8",
+    "lodash.throttle": "^4.1.1",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "react-focus-lock": "^2.2.1",
+    "react-scripts": "^3.4.0",
+    "smoothscroll-polyfill": "^0.4.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
