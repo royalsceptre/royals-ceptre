@@ -39,7 +39,7 @@ const resumeWebProjects = [
       href: "https://www.delysium.com/"
     },
     description:
-      "This project is weapon nft market place on Blockchain Network. (Vue.js | Rust | Web3 | PostgreSQL)"
+      "This project is weapon nft market place on Blockchain Network. (Vue.js | Rust(Axum) | Web3 | PostgreSQL)"
   },
   {
     title: "Only Music Folders Online Store",
