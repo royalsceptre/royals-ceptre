@@ -94,7 +94,7 @@ const resumeEducation = [
 const resumePersonalInfo = [
   {
     title: "Location",
-    description: "4047 Ontario St E, Kyiv"
+    description: "Kharkiv, Ukraine"
   },
   {
     title: "E-mail",
