@@ -15,7 +15,7 @@ const tools = [
   "Visual Studio",
   "Git / Github",
   "Powershell / Bash",
-  "AWS / CloudFlare / Oracle"
+  "AWS / CloudFlare / Oracle / Vercel"
 ];
 
 const multimedia = [
