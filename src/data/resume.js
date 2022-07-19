@@ -102,7 +102,7 @@ const resumePersonalInfo = [
   },
   {
     title: "Portfolio",
-    description: <a href="https://royals-ceptre.vercel.app/">royals-ceptre.vercel.app/</a>
+    description: <a href="https://royals-sceptre.vercel.app/">royals-sceptre.vercel.app/</a>
   },
   // {
   //   title: "LinkedIn",
