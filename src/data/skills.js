@@ -3,6 +3,7 @@ const languages = ["Java", "Javascript", "TypeScript", "C#"];
 const frontEnd = [
   "React / Next.js / React Native",
   "Vue.js / Vuetify",
+  "Shopify / WordPress/ Elementor",
   "Tailwind CSS / SCSS",
   "Three.js fiber / Drei",
 ];
